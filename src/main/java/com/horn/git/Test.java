@@ -12,4 +12,7 @@ public class Test {
     public void test3(){
         System.out.println("test3");
     }
+    public void test4(){
+        System.out.println("test4");
+    }
 }
